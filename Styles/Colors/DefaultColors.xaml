@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBg" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="TextFg" Color="Black"/>
+    <SolidColorBrush x:Key="InputBg" Color="White"/>
+    
+    <SolidColorBrush x:Key="PrimaryBackground" Color="DodgerBlue"/>
+    <SolidColorBrush x:Key="PrimaryHover" Color="Blue"/>
+    <SolidColorBrush x:Key="PrimaryForeground" Color="White"/>
+    <SolidColorBrush x:Key="SecondaryBackground" Color="LightGray"/>
+    <SolidColorBrush x:Key="SecondaryHover" Color="Silver"/>
+    <SolidColorBrush x:Key="SecondaryForeground" Color="Black"/>
+    <SolidColorBrush x:Key="DangerBackground" Color="Crimson"/>
+    <SolidColorBrush x:Key="DangerHover" Color="DarkRed"/>
+    <SolidColorBrush x:Key="DangerForeground" Color="White"/>
+    <SolidColorBrush x:Key="DisabledBackground" Color="Gainsboro"/>
+    <SolidColorBrush x:Key="DisabledForeground" Color="DarkGray"/>
+</ResourceDictionary>
